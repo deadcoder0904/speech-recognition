@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![speech-recognition](.png)
+![speech-recognition](http://imgur.com/lBsk2Lp.png)
 
 ## License
 
